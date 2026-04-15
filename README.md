@@ -206,5 +206,3 @@ resolution back in the ticket.
 **Justin Hernandez**
 - CIS Student — Cal Poly Pomona
 - IT/Cybersecurity Intern — LA-Tech.org
-- [GitHub](https://github.com/jstn131)
-- [LinkedIn](www.linkedin.com/in/jstn131)
